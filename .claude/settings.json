@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($p = \"C:\\\\Users\\\\wrwut\\\\AppData\\\\Local\\\\Microsoft\\\\WindowsApps\\\\python.exe\"; & $p --version; \"exit=$LASTEXITCODE\")",
+      "PowerShell(Get-Command py, python3, conda -ErrorAction SilentlyContinue)"
+    ]
+  }
+}
