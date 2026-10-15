@@ -48,6 +48,7 @@ env/
 *.swp
 .DS_Store
 Thumbs.db
+*.pyc
 
 # =====================================================================
 # Claude Code
@@ -63,3 +64,4 @@ Thumbs.db
 results/**/*.png
 results/**/*.pdf
 results/close/results-Scenario*-table.csv
+*.pth
