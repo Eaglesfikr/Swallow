@@ -1,0 +1,8 @@
+D1-Undefence-Ori-D6-Undefence - 5 
+ avg -> 86.17, std -> 0.64, max -> 86.88
+D1-Undefence-Ori-D6-Undefence - 10 
+ avg -> 91.11, std -> 0.33, max -> 91.75
+D1-Undefence-Ori-D6-Undefence - 15 
+ avg -> 93.22, std -> 0.37, max -> 93.91
+D1-Undefence-Ori-D6-Undefence - 20 
+ avg -> 94.36, std -> 0.17, max -> 94.59

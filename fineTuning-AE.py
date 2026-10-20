@@ -189,7 +189,8 @@ if __name__ == '__main__':
     batch_size = 16
 
     # Scenario #1: Different Locations of Guard Relays.
-    defence_type_list = ["Undefence", "WTF-PAD", "Front"]
+    # defence_type_list = ["Undefence", "WTF-PAD", "Front"]
+    defence_type_list = ["Undefence"]
     for defence in defence_type_list:
         model_name = f"D1-{defence}"
         data_list = ['D2', 'D3', 'D4', 'D5']

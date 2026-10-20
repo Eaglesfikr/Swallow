@@ -1,0 +1,64 @@
+D1-Undefence-Ori-D2-Undefence - 5 
+ avg -> 85.22, std -> 0.74, max -> 86.26
+D1-Undefence-Ori-D2-Undefence - 10 
+ avg -> 89.76, std -> 0.55, max -> 90.42
+D1-Undefence-Ori-D2-Undefence - 15 
+ avg -> 91.61, std -> 0.32, max -> 92.05
+D1-Undefence-Ori-D2-Undefence - 20 
+ avg -> 92.31, std -> 0.33, max -> 92.73
+D1-Undefence-Ori-D3-Undefence - 5 
+ avg -> 85.61, std -> 0.78, max -> 86.54
+D1-Undefence-Ori-D3-Undefence - 10 
+ avg -> 89.76, std -> 0.52, max -> 90.44
+D1-Undefence-Ori-D3-Undefence - 15 
+ avg -> 90.95, std -> 0.17, max -> 91.25
+D1-Undefence-Ori-D3-Undefence - 20 
+ avg -> 92.01, std -> 0.45, max -> 92.51
+D1-Undefence-Ori-D4-Undefence - 5 
+ avg -> 86.75, std -> 0.56, max -> 87.42
+D1-Undefence-Ori-D4-Undefence - 10 
+ avg -> 90.60, std -> 0.63, max -> 91.55
+D1-Undefence-Ori-D4-Undefence - 15 
+ avg -> 92.92, std -> 0.45, max -> 93.55
+D1-Undefence-Ori-D4-Undefence - 20 
+ avg -> 93.54, std -> 0.43, max -> 93.89
+D1-Undefence-Ori-D5-Undefence - 5 
+ avg -> 84.95, std -> 1.06, max -> 86.42
+D1-Undefence-Ori-D5-Undefence - 10 
+ avg -> 90.45, std -> 0.53, max -> 91.17
+D1-Undefence-Ori-D5-Undefence - 15 
+ avg -> 92.10, std -> 0.58, max -> 92.67
+D1-Undefence-Ori-D5-Undefence - 20 
+ avg -> 92.79, std -> 0.37, max -> 93.35
+D1-WTF-PAD-Ori-D2-WTF-PAD - 5 
+ avg -> 80.63, std -> 0.44, max -> 81.39
+D1-WTF-PAD-Ori-D2-WTF-PAD - 10 
+ avg -> 86.76, std -> 0.34, max -> 87.16
+D1-WTF-PAD-Ori-D2-WTF-PAD - 15 
+ avg -> 88.70, std -> 0.36, max -> 89.36
+D1-WTF-PAD-Ori-D2-WTF-PAD - 20 
+ avg -> 89.86, std -> 0.33, max -> 90.34
+D1-WTF-PAD-Ori-D3-WTF-PAD - 5 
+ avg -> 81.25, std -> 1.13, max -> 82.41
+D1-WTF-PAD-Ori-D3-WTF-PAD - 10 
+ avg -> 86.82, std -> 0.15, max -> 87.10
+D1-WTF-PAD-Ori-D3-WTF-PAD - 15 
+ avg -> 88.87, std -> 0.53, max -> 89.60
+D1-WTF-PAD-Ori-D3-WTF-PAD - 20 
+ avg -> 90.28, std -> 0.26, max -> 90.58
+D1-WTF-PAD-Ori-D4-WTF-PAD - 5 
+ avg -> 81.01, std -> 1.13, max -> 82.41
+D1-WTF-PAD-Ori-D4-WTF-PAD - 10 
+ avg -> 87.58, std -> 0.87, max -> 89.14
+D1-WTF-PAD-Ori-D4-WTF-PAD - 15 
+ avg -> 89.88, std -> 1.12, max -> 90.85
+D1-WTF-PAD-Ori-D4-WTF-PAD - 20 
+ avg -> 90.67, std -> 1.27, max -> 91.83
+D1-WTF-PAD-Ori-D5-WTF-PAD - 5 
+ avg -> 79.13, std -> 1.06, max -> 80.51
+D1-WTF-PAD-Ori-D5-WTF-PAD - 10 
+ avg -> 86.50, std -> 0.52, max -> 87.24
+D1-WTF-PAD-Ori-D5-WTF-PAD - 15 
+ avg -> 88.53, std -> 0.74, max -> 89.50
+D1-WTF-PAD-Ori-D5-WTF-PAD - 20 
+ avg -> 90.21, std -> 0.88, max -> 91.31
