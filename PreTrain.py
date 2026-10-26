@@ -5,6 +5,7 @@ import yaml
 import numpy as np
 import warnings
 import logging
+import argparse
 from torch.utils.data import Dataset, ConcatDataset, DataLoader
 
 # Import custom modules and models
@@ -120,15 +121,19 @@ def train_model(model_name, config, train_loader, device, online_network, target
         predictor=predictor,
         device=device,
         model_path=model_name,
+        model_folder=config['path']['model_path'],
         **config['trainer']
     )
     trainer.train(train_loader)
 
-def main():
+def main(args):
     """Main training loop for multiple model variants."""
     model_name_list = ["D1-Undefence","D1-WTF-PAD","D1-Front"]
     for model_name in model_name_list:
         config = load_config()
+        # 传给 BYOLTrainer(**config['trainer']) 的 wandb 开关
+        config['trainer']['use_wandb'] = not args.no_wandb
+        config['trainer']['wandb_project'] = args.wandb_project
         train_loader, device = prepare_data(model_name, config)
         online_net, target_net, predictor, optimizer = build_model(config, device)
         train_model(model_name, config, train_loader, device, online_net, target_net, predictor, optimizer)
@@ -137,4 +142,11 @@ if __name__ == '__main__':
     # Suppress specific user warnings
     warnings.filterwarnings("ignore", category=UserWarning, message="loaded more than 1 DLL from .libs")
 
-    main()
+    parser = argparse.ArgumentParser(description="Swallow BYOL 预训练（已接入 wandb 可视化）")
+    parser.add_argument("--no-wandb", action="store_true", help="关闭 wandb 记录")
+    parser.add_argument("--wandb-project", default="swallow-pretrain",
+                        help="wandb 项目名，默认 swallow-pretrain")
+    args = parser.parse_args()
+    print(f"wandb: {'已关闭' if args.no_wandb else '开启 -> ' + args.wandb_project}")
+
+    main(args)

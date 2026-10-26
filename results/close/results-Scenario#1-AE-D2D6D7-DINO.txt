@@ -1,0 +1,48 @@
+D1-Undefence-DINO-D2-Undefence - 5 
+ avg -> 79.70, std -> 1.94, max -> 82.53
+D1-Undefence-DINO-D2-Undefence - 10 
+ avg -> 86.52, std -> 1.00, max -> 88.46
+D1-Undefence-DINO-D2-Undefence - 15 
+ avg -> 89.10, std -> 0.94, max -> 90.44
+D1-Undefence-DINO-D2-Undefence - 20 
+ avg -> 90.83, std -> 0.83, max -> 91.65
+D1-Undefence-DINO-D6-Undefence - 5 
+ avg -> 80.18, std -> 1.30, max -> 81.73
+D1-Undefence-DINO-D6-Undefence - 10 
+ avg -> 87.44, std -> 1.42, max -> 89.18
+D1-Undefence-DINO-D6-Undefence - 15 
+ avg -> 90.22, std -> 0.77, max -> 91.23
+D1-Undefence-DINO-D6-Undefence - 20 
+ avg -> 92.23, std -> 0.89, max -> 92.95
+D1-Undefence-DINO-D7-Undefence - 5 
+ avg -> 52.72, std -> 2.23, max -> 56.35
+D1-Undefence-DINO-D7-Undefence - 10 
+ avg -> 65.29, std -> 2.38, max -> 67.25
+D1-Undefence-DINO-D7-Undefence - 15 
+ avg -> 73.06, std -> 1.84, max -> 75.00
+D1-Undefence-DINO-D7-Undefence - 20 
+ avg -> 76.07, std -> 1.11, max -> 77.16
+D1-Undefence-DINO-D2-Undefence - 5 
+ avg -> 77.86, std -> 0.81, max -> 78.73
+D1-Undefence-DINO-D2-Undefence - 10 
+ avg -> 85.32, std -> 0.91, max -> 86.46
+D1-Undefence-DINO-D2-Undefence - 15 
+ avg -> 87.49, std -> 0.99, max -> 88.80
+D1-Undefence-DINO-D2-Undefence - 20 
+ avg -> 89.69, std -> 0.47, max -> 90.28
+D1-Undefence-DINO-D6-Undefence - 5 
+ avg -> 75.65, std -> 1.69, max -> 78.75
+D1-Undefence-DINO-D6-Undefence - 10 
+ avg -> 84.00, std -> 0.26, max -> 84.31
+D1-Undefence-DINO-D6-Undefence - 15 
+ avg -> 87.87, std -> 0.50, max -> 88.36
+D1-Undefence-DINO-D6-Undefence - 20 
+ avg -> 90.75, std -> 0.34, max -> 91.33
+D1-Undefence-DINO-D7-Undefence - 5 
+ avg -> 48.91, std -> 2.69, max -> 53.47
+D1-Undefence-DINO-D7-Undefence - 10 
+ avg -> 64.75, std -> 1.49, max -> 66.39
+D1-Undefence-DINO-D7-Undefence - 15 
+ avg -> 70.31, std -> 1.12, max -> 71.65
+D1-Undefence-DINO-D7-Undefence - 20 
+ avg -> 76.32, std -> 0.67, max -> 77.18

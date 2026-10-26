@@ -1,0 +1,24 @@
+D1-Undefence-D2-Undefence - 5 
+ avg -> 85.49, std -> 1.13, max -> 87.22
+D1-Undefence-D2-Undefence - 10 
+ avg -> 89.56, std -> 0.73, max -> 90.38
+D1-Undefence-D2-Undefence - 15 
+ avg -> 91.23, std -> 0.40, max -> 91.81
+D1-Undefence-D2-Undefence - 20 
+ avg -> 92.29, std -> 0.74, max -> 93.17
+D1-Undefence-D6-Undefence - 5 
+ avg -> 86.43, std -> 0.56, max -> 87.18
+D1-Undefence-D6-Undefence - 10 
+ avg -> 91.37, std -> 0.51, max -> 91.87
+D1-Undefence-D6-Undefence - 15 
+ avg -> 93.14, std -> 0.36, max -> 93.65
+D1-Undefence-D6-Undefence - 20 
+ avg -> 94.17, std -> 0.21, max -> 94.37
+D1-Undefence-D7-Undefence - 5 
+ avg -> 57.01, std -> 1.23, max -> 58.31
+D1-Undefence-D7-Undefence - 10 
+ avg -> 71.13, std -> 1.15, max -> 72.46
+D1-Undefence-D7-Undefence - 15 
+ avg -> 74.90, std -> 0.94, max -> 76.02
+D1-Undefence-D7-Undefence - 20 
+ avg -> 77.77, std -> 1.46, max -> 79.25

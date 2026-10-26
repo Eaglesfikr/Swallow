@@ -1,0 +1,32 @@
+D1-Undefence-SimSiam-D2-Undefence - 5 
+ avg -> 79.09, std -> 2.65, max -> 81.57
+D1-Undefence-SimSiam-D2-Undefence - 10 
+ avg -> 86.01, std -> 2.33, max -> 88.86
+D1-Undefence-SimSiam-D2-Undefence - 15 
+ avg -> 87.26, std -> 1.82, max -> 90.12
+D1-Undefence-SimSiam-D2-Undefence - 20 
+ avg -> 88.59, std -> 1.50, max -> 90.12
+D1-Undefence-SimSiam-D3-Undefence - 5 
+ avg -> 80.87, std -> 1.92, max -> 82.91
+D1-Undefence-SimSiam-D3-Undefence - 10 
+ avg -> 86.01, std -> 2.64, max -> 88.28
+D1-Undefence-SimSiam-D3-Undefence - 15 
+ avg -> 88.66, std -> 0.82, max -> 89.88
+D1-Undefence-SimSiam-D3-Undefence - 20 
+ avg -> 89.40, std -> 0.49, max -> 90.24
+D1-Undefence-SimSiam-D4-Undefence - 5 
+ avg -> 80.92, std -> 1.40, max -> 81.99
+D1-Undefence-SimSiam-D4-Undefence - 10 
+ avg -> 87.00, std -> 2.21, max -> 88.32
+D1-Undefence-SimSiam-D4-Undefence - 15 
+ avg -> 89.00, std -> 1.26, max -> 90.73
+D1-Undefence-SimSiam-D4-Undefence - 20 
+ avg -> 90.86, std -> 0.85, max -> 91.83
+D1-Undefence-SimSiam-D5-Undefence - 5 
+ avg -> 78.89, std -> 2.99, max -> 82.89
+D1-Undefence-SimSiam-D5-Undefence - 10 
+ avg -> 84.65, std -> 0.78, max -> 85.86
+D1-Undefence-SimSiam-D5-Undefence - 15 
+ avg -> 87.33, std -> 1.92, max -> 89.78
+D1-Undefence-SimSiam-D5-Undefence - 20 
+ avg -> 88.89, std -> 0.61, max -> 89.56
